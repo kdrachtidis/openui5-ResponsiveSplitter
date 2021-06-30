@@ -3,7 +3,7 @@ sap.ui.define([
 ], function (Controller) {
     "use strict";
 
-    var Controller = Controller.extend("DemoUXapp.controller.MainNavigation.ResponsiveSplitter");
+    var Controller = Controller.extend("DemoUXapp.controller.MainNavigation.RightContainerTopPane");
 
     return Controller;
 });
